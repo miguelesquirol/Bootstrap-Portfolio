@@ -1,7 +1,3 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
-
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
 ## Getting Started
 
 I've been designing pages from more than 20 years, I started with basic html in old Netscape browser in a clunky machine, learned CSSl, moved from flash to HTML5, from tables and iframes to responsive sites, jQuery and CSS3 animations. I created many Wordpress sites, using templates, frameworks and even some of them from scratch. I had to learn CSS3, jQuery and PHP to keep up to date.
@@ -14,7 +10,7 @@ Web design is still growing, and I plan to keep on learning.
 ## EMPLOYMENT
 
 Web Designer
-Link Now Media | www.linknow.com   
+[Link Now Media](http://www.linknow.com)
 2012 > Present
 
 
@@ -28,17 +24,17 @@ Trainer of new junior designer on procedures, design and standards.
 Designer with the most clients and responsibilities on the company
 
 
-Examples of work -  http://miguelesquirol.com
+[Examples of work](http://miguelesquirol.com)
 
 ## Independent Web Designer
 
 I worked directly with a graphic designer on different personal projects, non profit companies, and independent clients.  I had the complete control of the code and the design of the site, as well as the hosting, maintenance and regular updates of the sites.
 
-Examples of work -  http://miguelesquirol.com
+[Examples of work](http://miguelesquirol.com)
 
 
 ## LANGUAGES
 
 Spanish
 English
-French 
+French
