@@ -4,24 +4,41 @@
 
 ## Getting Started
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* Fork the repo
+I've been designing pages from more than 20 years, I started with basic html in old Netscape browser in a clunky machine, learned CSSl, moved from flash to HTML5, from tables and iframes to responsive sites, jQuery and CSS3 animations. I created many Wordpress sites, using templates, frameworks and even some of them from scratch. I had to learn CSS3, jQuery and PHP to keep up to date.
 
-## Bugs and Issues
+Since 2009 I started to work as webdesigner professionally, with small projects in an independent manner, designing, coding and hosting. Since 2013 I've been working full time as front end developer. Today I create useful pages for people, developing full fledged websites, and working in a company with thousands of clients.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
+Web design is still growing, and I plan to keep on learning.
 
-## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+## EMPLOYMENT
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+Web Designer
+Link Now Media | www.linknow.com   
+2012 > Present
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
+## Achievements
+Designer with thousands of clients, small companies across the US and Canada.
+Responsible of design, code and client contact
+Worked with PHP, CSS3, HTML5, Javascript, jQuery, Wordpress
+Starting with a homegrown framework in Wordpress I designed and coded thousands of different websites.
+Responsible of e-commerce sites on several accounts.
+Trainer of new junior designer on procedures, design and standards.
+Designer with the most clients and responsibilities on the company
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+
+Examples of work -  http://miguelesquirol.com
+
+## Independent Web Designer
+
+I worked directly with a graphic designer on different personal projects, non profit companies, and independent clients.  I had the complete control of the code and the design of the site, as well as the hosting, maintenance and regular updates of the sites.
+
+Examples of work -  http://miguelesquirol.com
+
+
+## LANGUAGES
+
+Spanish
+English
+French 
